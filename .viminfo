@@ -12,7 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1738334607,,"wq!"
+|2,0,1738337753,,"wq!"
+:q!
+|2,0,1738337691,,"q!"
+:q
+|2,0,1738337680,,"q"
 
 # Search String History (newest to oldest):
 
@@ -25,28 +29,64 @@
 # Registers:
 
 # File marks:
-'0  42  0  ~/My_java_program.java
-|4,48,42,0,1738334607,"~/My_java_program.java"
-'1  42  0  ~/My_java_program.java
-|4,49,42,0,1738334278,"~/My_java_program.java"
-'2  2  13  ~/my-first-devops-project/hello.py
-|4,50,2,13,1738249222,"~/my-first-devops-project/hello.py"
-'3  2  14  ~/my-first-devops-project/deploy.sh
-|4,51,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
-'4  1  24  ~/my-first-devops-project/hello.py
-|4,52,1,24,1738243960,"~/my-first-devops-project/hello.py"
-'5  1  24  ~/my-first-devops-project/hello.py
-|4,53,1,24,1738243960,"~/my-first-devops-project/hello.py"
+'0  24  0  ~/jenkinsfile
+|4,48,24,0,1738337753,"~/jenkinsfile"
+'1  1  0  ~/javafile
+|4,49,1,0,1738337691,"~/javafile"
+'2  42  0  ~/My_java_program.java
+|4,50,42,0,1738334607,"~/My_java_program.java"
+'3  42  0  ~/My_java_program.java
+|4,51,42,0,1738334278,"~/My_java_program.java"
+'4  2  13  ~/my-first-devops-project/hello.py
+|4,52,2,13,1738249222,"~/my-first-devops-project/hello.py"
+'5  2  14  ~/my-first-devops-project/deploy.sh
+|4,53,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+'6  1  24  ~/my-first-devops-project/hello.py
+|4,54,1,24,1738243960,"~/my-first-devops-project/hello.py"
+'7  1  24  ~/my-first-devops-project/hello.py
+|4,55,1,24,1738243960,"~/my-first-devops-project/hello.py"
 
 # Jumplist (newest first):
+-'  24  0  ~/jenkinsfile
+|4,39,24,0,1738337753,"~/jenkinsfile"
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1738337702,"~/jenkinsfile"
+-'  1  0  ~/javafile
+|4,39,1,0,1738337691,"~/javafile"
+-'  1  0  ~/javafile
+|4,39,1,0,1738337691,"~/javafile"
 -'  42  0  ~/My_java_program.java
 |4,39,42,0,1738334607,"~/My_java_program.java"
+-'  42  0  ~/My_java_program.java
+|4,39,42,0,1738334607,"~/My_java_program.java"
+-'  42  0  ~/My_java_program.java
+|4,39,42,0,1738334607,"~/My_java_program.java"
+-'  42  0  ~/My_java_program.java
+|4,39,42,0,1738334607,"~/My_java_program.java"
+-'  42  0  ~/My_java_program.java
+|4,39,42,0,1738334278,"~/My_java_program.java"
+-'  42  0  ~/My_java_program.java
+|4,39,42,0,1738334278,"~/My_java_program.java"
+-'  42  0  ~/My_java_program.java
+|4,39,42,0,1738334278,"~/My_java_program.java"
 -'  42  0  ~/My_java_program.java
 |4,39,42,0,1738334278,"~/My_java_program.java"
 -'  1  0  ~/My_java_program.java
 |4,39,1,0,1738334259,"~/My_java_program.java"
 -'  1  0  ~/My_java_program.java
 |4,39,1,0,1738334259,"~/My_java_program.java"
+-'  1  0  ~/My_java_program.java
+|4,39,1,0,1738334259,"~/My_java_program.java"
+-'  1  0  ~/My_java_program.java
+|4,39,1,0,1738334259,"~/My_java_program.java"
+-'  1  0  ~/My_java_program.java
+|4,39,1,0,1738334259,"~/My_java_program.java"
+-'  1  0  ~/My_java_program.java
+|4,39,1,0,1738334259,"~/My_java_program.java"
+-'  1  0  ~/My_java_program.java
+|4,39,1,0,1738334259,"~/My_java_program.java"
+-'  1  0  ~/My_java_program.java
+|4,39,1,0,1738334259,"~/My_java_program.java"
 -'  2  13  ~/my-first-devops-project/hello.py
 |4,39,2,13,1738249222,"~/my-first-devops-project/hello.py"
 -'  2  13  ~/my-first-devops-project/hello.py
@@ -55,6 +95,54 @@
 |4,39,2,13,1738249222,"~/my-first-devops-project/hello.py"
 -'  2  13  ~/my-first-devops-project/hello.py
 |4,39,2,13,1738249222,"~/my-first-devops-project/hello.py"
+-'  2  13  ~/my-first-devops-project/hello.py
+|4,39,2,13,1738249222,"~/my-first-devops-project/hello.py"
+-'  2  13  ~/my-first-devops-project/hello.py
+|4,39,2,13,1738249222,"~/my-first-devops-project/hello.py"
+-'  2  13  ~/my-first-devops-project/hello.py
+|4,39,2,13,1738249222,"~/my-first-devops-project/hello.py"
+-'  2  13  ~/my-first-devops-project/hello.py
+|4,39,2,13,1738249222,"~/my-first-devops-project/hello.py"
+-'  2  13  ~/my-first-devops-project/hello.py
+|4,39,2,13,1738249222,"~/my-first-devops-project/hello.py"
+-'  2  13  ~/my-first-devops-project/hello.py
+|4,39,2,13,1738249222,"~/my-first-devops-project/hello.py"
+-'  2  13  ~/my-first-devops-project/hello.py
+|4,39,2,13,1738249222,"~/my-first-devops-project/hello.py"
+-'  2  13  ~/my-first-devops-project/hello.py
+|4,39,2,13,1738249222,"~/my-first-devops-project/hello.py"
+-'  2  13  ~/my-first-devops-project/hello.py
+|4,39,2,13,1738249222,"~/my-first-devops-project/hello.py"
+-'  2  13  ~/my-first-devops-project/hello.py
+|4,39,2,13,1738249222,"~/my-first-devops-project/hello.py"
+-'  2  13  ~/my-first-devops-project/hello.py
+|4,39,2,13,1738249222,"~/my-first-devops-project/hello.py"
+-'  2  13  ~/my-first-devops-project/hello.py
+|4,39,2,13,1738249222,"~/my-first-devops-project/hello.py"
+-'  1  24  ~/my-first-devops-project/hello.py
+|4,39,1,24,1738249203,"~/my-first-devops-project/hello.py"
+-'  1  24  ~/my-first-devops-project/hello.py
+|4,39,1,24,1738249203,"~/my-first-devops-project/hello.py"
+-'  1  24  ~/my-first-devops-project/hello.py
+|4,39,1,24,1738249203,"~/my-first-devops-project/hello.py"
+-'  1  24  ~/my-first-devops-project/hello.py
+|4,39,1,24,1738249203,"~/my-first-devops-project/hello.py"
+-'  1  24  ~/my-first-devops-project/hello.py
+|4,39,1,24,1738249203,"~/my-first-devops-project/hello.py"
+-'  1  24  ~/my-first-devops-project/hello.py
+|4,39,1,24,1738249203,"~/my-first-devops-project/hello.py"
+-'  1  24  ~/my-first-devops-project/hello.py
+|4,39,1,24,1738249203,"~/my-first-devops-project/hello.py"
+-'  1  24  ~/my-first-devops-project/hello.py
+|4,39,1,24,1738249203,"~/my-first-devops-project/hello.py"
+-'  1  24  ~/my-first-devops-project/hello.py
+|4,39,1,24,1738249203,"~/my-first-devops-project/hello.py"
+-'  1  24  ~/my-first-devops-project/hello.py
+|4,39,1,24,1738249203,"~/my-first-devops-project/hello.py"
+-'  1  24  ~/my-first-devops-project/hello.py
+|4,39,1,24,1738249203,"~/my-first-devops-project/hello.py"
+-'  1  24  ~/my-first-devops-project/hello.py
+|4,39,1,24,1738249203,"~/my-first-devops-project/hello.py"
 -'  1  24  ~/my-first-devops-project/hello.py
 |4,39,1,24,1738249203,"~/my-first-devops-project/hello.py"
 -'  1  24  ~/my-first-devops-project/hello.py
@@ -79,6 +167,54 @@
 |4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
 -'  2  14  ~/my-first-devops-project/deploy.sh
 |4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
+-'  2  14  ~/my-first-devops-project/deploy.sh
+|4,39,2,14,1738244018,"~/my-first-devops-project/deploy.sh"
 -'  1  0  ~/my-first-devops-project/deploy.sh
 |4,39,1,0,1738244006,"~/my-first-devops-project/deploy.sh"
 -'  1  0  ~/my-first-devops-project/deploy.sh
@@ -95,24 +231,38 @@
 |4,39,1,0,1738244006,"~/my-first-devops-project/deploy.sh"
 -'  1  0  ~/my-first-devops-project/deploy.sh
 |4,39,1,0,1738244006,"~/my-first-devops-project/deploy.sh"
--'  1  24  ~/my-first-devops-project/hello.py
-|4,39,1,24,1738243960,"~/my-first-devops-project/hello.py"
--'  1  24  ~/my-first-devops-project/hello.py
-|4,39,1,24,1738243960,"~/my-first-devops-project/hello.py"
--'  1  24  ~/my-first-devops-project/hello.py
-|4,39,1,24,1738243960,"~/my-first-devops-project/hello.py"
--'  1  24  ~/my-first-devops-project/hello.py
-|4,39,1,24,1738243960,"~/my-first-devops-project/hello.py"
--'  1  24  ~/my-first-devops-project/hello.py
-|4,39,1,24,1738243960,"~/my-first-devops-project/hello.py"
--'  1  24  ~/my-first-devops-project/hello.py
-|4,39,1,24,1738243960,"~/my-first-devops-project/hello.py"
--'  1  24  ~/my-first-devops-project/hello.py
-|4,39,1,24,1738243960,"~/my-first-devops-project/hello.py"
--'  1  24  ~/my-first-devops-project/hello.py
-|4,39,1,24,1738243960,"~/my-first-devops-project/hello.py"
+-'  1  0  ~/my-first-devops-project/deploy.sh
+|4,39,1,0,1738244006,"~/my-first-devops-project/deploy.sh"
+-'  1  0  ~/my-first-devops-project/deploy.sh
+|4,39,1,0,1738244006,"~/my-first-devops-project/deploy.sh"
+-'  1  0  ~/my-first-devops-project/deploy.sh
+|4,39,1,0,1738244006,"~/my-first-devops-project/deploy.sh"
+-'  1  0  ~/my-first-devops-project/deploy.sh
+|4,39,1,0,1738244006,"~/my-first-devops-project/deploy.sh"
+-'  1  0  ~/my-first-devops-project/deploy.sh
+|4,39,1,0,1738244006,"~/my-first-devops-project/deploy.sh"
+-'  1  0  ~/my-first-devops-project/deploy.sh
+|4,39,1,0,1738244006,"~/my-first-devops-project/deploy.sh"
+-'  1  0  ~/my-first-devops-project/deploy.sh
+|4,39,1,0,1738244006,"~/my-first-devops-project/deploy.sh"
+-'  1  0  ~/my-first-devops-project/deploy.sh
+|4,39,1,0,1738244006,"~/my-first-devops-project/deploy.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/jenkinsfile
+	*	1738337744	0
+	"	24	0
+	^	24	0
+	.	29	1
+	+	29	1
+
+> ~/javafile
+	*	1738337683	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
 
 > ~/My_java_program.java
 	*	1738334603	0
