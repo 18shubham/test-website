@@ -112,3 +112,18 @@ sudo systemctl status jenkins
 sudo /var/lib/jenkins/secrets/initialAdminPassword
 
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+ls
+My_java_program.java
+vi My_java_program.java
+ls 
+javac My_java_program.java
+sudo apt instal default-jdk
+sudo apt install default-jdk
+javac My_java_program.java
+ls
+vi My_java_program.java 
+javac My_java_program.java
+java My_java_program 
+git  init
+git add .
+git commit -m "java app"
